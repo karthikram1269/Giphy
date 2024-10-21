@@ -1,0 +1,1 @@
+This is a gif's api search mini project, where you can view the giphs and download according to the input provided.
